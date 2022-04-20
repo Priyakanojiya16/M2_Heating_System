@@ -3,6 +3,11 @@
 [![CI](https://github.com/Priyakanojiya16/M2_Heating_System/actions/workflows/main.yml/badge.svg)](https://github.com/Priyakanojiya16/M2_Heating_System/actions/workflows/main.yml)
 [![CI](https://github.com/Priyakanojiya16/M2_Heating_System/actions/workflows/main.yml/badge.svg)](https://github.com/Priyakanojiya16/M2_Heating_System/actions/workflows/main.yml)
 
+Functions            Feature Id	Feature
+
+F_01	               sensing if the person is seated
+F_02	               blinking the LED
+
 ![activity 4 simu](https://user-images.githubusercontent.com/101107787/164267271-a49952a6-b3fd-4669-8fee-b1b809dacaf0.jpg)
 ![activity 2h](https://user-images.githubusercontent.com/101107787/164267284-3fa47936-3eb5-448d-86ff-8e38e35d0c74.jpg)
 ![activity1 h OFF](https://user-images.githubusercontent.com/101107787/164267327-f6deef9a-c759-4273-9a99-2be5fff1180e.jpg)
