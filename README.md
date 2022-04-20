@@ -8,4 +8,21 @@
 ![activity1 h OFF](https://user-images.githubusercontent.com/101107787/164267327-f6deef9a-c759-4273-9a99-2be5fff1180e.jpg)
 ![activity1 h ON](https://user-images.githubusercontent.com/101107787/164267349-3f158772-959b-4b41-88b5-20380313baf0.jpg)
 ![activity2](https://user-images.githubusercontent.com/101107787/164267356-ddb4fbfd-a201-404d-bfe8-f3413b530343.jpg)
-![activity3_sim](https://user-images.githubusercontent.com/101107787/164267363-f900e1f8-bcc4-4aed-82cb-5b0cce8192f5.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+Challenges Faced and How Was It Overcome
+1.GCC erorr in windows and linux: installed the gcc msys64 mingw64 properly.
+
+2.Generation of makefile: To overcome this problem research on makefiles was done.
+
+3.Unity testing: Initially a few testcases did not pass, to overcome this issue debugging of program was performed.
