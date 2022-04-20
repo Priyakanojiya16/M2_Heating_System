@@ -1,0 +1,11 @@
+3_Implementation/src/activity1.c:28:0: style: The function 'TurnLED_OFF' is never used. [unusedFunction]
+
+^
+3_Implementation/src/activity1.c:24:0: style: The function 'TurnLED_ON' is never used. [unusedFunction]
+
+^
+3_Implementation/src/activity1.c:33:0: style: The function 'activity1_LED' is never used. [unusedFunction]
+
+^
+nofile:0:0: information: Cppcheck cannot find all the include files (use --check-config for details) [missingInclude]
+
